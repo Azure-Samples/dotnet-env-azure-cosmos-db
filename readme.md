@@ -1,4 +1,4 @@
-# .NET starter environment for Azure Cosmos DB training
+# .NET starter environment for Azure Cosmos DB content
 
 ## Installed software
 
